@@ -1,2 +1,2 @@
 # bootstrap-tableAdapter
-It's a bootstrap-style tableAdapter javascript application, with table auto filling and pagination
+It's a bootstrap-style tableAdapter jquery table plugin, with table auto filling and pagination
